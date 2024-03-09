@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #27ae60;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    background-color: #ecf0f1;
+    padding: 2em;
+}
+
+.center {
+    text-align: center;
+}
+
+/* Add more CSS styling as needed for your contract section */
